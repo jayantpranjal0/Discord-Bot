@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define int long long int
+//this ids cosj
 void solve(){
 	int n;
 	cin>>n;
